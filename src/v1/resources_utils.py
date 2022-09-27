@@ -1,5 +1,5 @@
 import typing as t
-from src.classes import GeodesyProjectionType, GeodesyProjection
+from src.v1.classes import GeodesyProjectionType, GeodesyProjection
 
 
 test_resources_mapping = {

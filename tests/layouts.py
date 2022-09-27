@@ -1,4 +1,4 @@
-from src.classes import StickyType as St, GeodesyProjectionType as Gpt
+from src import StickyType as St, GeodesyProjectionType as Gpt
 
 layout1 = [
     [St.HONEY, St.HONEY, St.HONEY, St.EMTPY,],

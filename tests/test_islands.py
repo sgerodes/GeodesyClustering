@@ -1,7 +1,3 @@
-from src.classes import StickyScore, Cluster, StickyType as St
-from .layouts import *
-
-
 # def test_layout_creation():
 #     sticky_layout = Cluster(layout=layout1)
 #     assert sticky_layout.get_slime_count() == 2

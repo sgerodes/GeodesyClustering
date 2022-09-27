@@ -1,4 +1,4 @@
-from src.resources_utils import read_resource_geodes
+from src import read_resource_geodes
 
 
 if __name__ == '__main__':

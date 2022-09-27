@@ -1,9 +1,3 @@
-from src.classes import *
-from itertools import product
-from tests import layouts
-import typing as t
-
-
 def solve(gp: GeodesyProjection):
     cluster = Cluster(height=gp.height, width=gp.width)
     for h in range(gp.height):

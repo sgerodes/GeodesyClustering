@@ -2,9 +2,9 @@ import enum
 import typing as t
 from collections import Counter
 from copy import deepcopy
-from src.constants import PUNCH_LIMIT
+from src.v1.constants import PUNCH_LIMIT
 from collections import defaultdict
-from src.utils import GridUtils
+from src.v1.utils import GridUtils
 
 
 class GeodesyProjectionType(enum.Enum):
