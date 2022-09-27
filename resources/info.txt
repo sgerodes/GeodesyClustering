@@ -1,0 +1,1 @@
+bounding box for budding amethyst blocks = 16x15x14
