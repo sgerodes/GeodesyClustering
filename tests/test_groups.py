@@ -1,3 +1,7 @@
+import pytest
+
+
+@pytest.mark.skip(reason="Legacy tests")
 def test_group_manager():
     cluster = Cluster(height=5, width=5)
     gm = GroupManager(cluster)
